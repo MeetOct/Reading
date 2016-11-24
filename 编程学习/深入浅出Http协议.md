@@ -1,5 +1,5 @@
 
-<h2 style='text-align:center'>深入浅出Http协议</h1>
+<h2 style='text-align:center'>深入浅出Http协议</h2>
 
 + ## Http基础
 
@@ -213,11 +213,4 @@
 
             6. DDoS（*分布式拒绝服务*）
 
-
-
-
-
-
-
-
-
++ ## Q&A
